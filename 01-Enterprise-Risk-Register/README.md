@@ -79,17 +79,17 @@ The results indicate that existing controls reduce the organisation's most sever
 
 ## Dashboard
 
-![Apex FinTech Enterprise Risk Dashboard](assets/risk-dashboard.png)
+### Executive Risk Overview
 
-The executive dashboard provides management-level visibility of:
+![Executive Risk Overview](assets/risk-dashboard-overview.png)
 
-- Total identified risks
-- Critical and High residual exposure
-- Average residual risk score
-- Overdue risk treatments
-- Inherent versus residual risk profile
-- Risk treatment status
-- Risks by category
+The executive dashboard provides management-level visibility of the organisation's overall risk exposure, including total risks, High and Critical residual risks, overdue treatments, average residual risk score, inherent versus residual exposure, and treatment status.
+
+### Risk Distribution by Category
+
+![Risk Distribution by Category](assets/risk-category-analysis.png)
+
+The category analysis highlights where risk exposure is concentrated across the organisation, supporting prioritisation and management reporting.
 
 ---
 
